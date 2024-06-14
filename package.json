@@ -6,7 +6,6 @@
   "author": "@motdotla",
   "license": "BSD-3-Clause",
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   }
 }
