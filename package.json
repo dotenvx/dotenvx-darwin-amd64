@@ -4,5 +4,9 @@
   "description": "dotenvx-darwin-amd64 binary",
   "repository": "https://github.com/dotenvx/dotenvx-darwin-amd64",
   "author": "@motdotla",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  }
 }
