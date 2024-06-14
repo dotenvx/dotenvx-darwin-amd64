@@ -1,6 +1,6 @@
 ![dotenvx](https://dotenvx.com/better-banner.png)
 
-> [!TIP]
+> [!NOTE]
 > dotenvx-darwin-amd64 binary
 
 &nbsp;
