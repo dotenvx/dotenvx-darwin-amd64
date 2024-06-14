@@ -1,7 +1,7 @@
 {
   "name": "dotenvx-darwin-amd64",
   "version": "0.1.0",
-  "description": "dotenvx-darwin-amd64",
+  "description": "dotenvx-darwin-amd64 binary",
   "repository": "https://github.com/dotenvx/dotenvx-darwin-amd64",
   "author": "@motdotla",
   "license": "BSD-3-Clause"
